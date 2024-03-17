@@ -1,0 +1,1 @@
+# Microsoft_Azure_Resource_Estimator_of_QAOA
